@@ -1,0 +1,6 @@
+{
+  "name": "TriLingua Translator",
+  "description": "Fast, clean, and accurate translation between English, Hindi, and Bengali with voice playback and offline history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
